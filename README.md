@@ -1,2 +1,4 @@
-# exblogs
-Free, Open Source and Responsive Blog System
+ExBlogs
+===
+
+Free, Open Source and Responsive Blog System.
